@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/sumitraj0103/project-githubpackage-poc.git"
   },
-  "publishConfig": {
-   "@sumitraj0103:registry": "https://npm.pkg.github.com"
-  },
   "author": "",
   "license": "ISC",
   "bugs": {
