@@ -11,12 +11,15 @@
     "url": "git+https://github.com/sumitraj0103/project-githubpackage-poc.git"
   },
   "publishConfig": {
-   "@sumitraj0103:registry": "https://npm.pkg.github.com"
+    "@sumitraj0103:registry": "https://npm.pkg.github.com"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sumitraj0103/project-githubpackage-poc/issues"
   },
-  "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme"
+  "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme",
+  "dependencies": {
+    "@sumitraj0103/project-githubpackage-poc": "1.0.0"
+  }
 }

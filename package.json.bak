@@ -10,10 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/sumitraj0103/project-githubpackage-poc.git"
   },
+  "publishConfig": {
+    "@sumitraj0103:registry": "https://npm.pkg.github.com"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sumitraj0103/project-githubpackage-poc/issues"
   },
-  "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme"
+  "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  }
 }
