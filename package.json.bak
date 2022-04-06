@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme",
   "dependencies": {
-    "react": "^18.0.0"
+	"@sumitraj0103/project-githubpackage-poc": "1.0.0"
   }
 }

@@ -19,7 +19,4 @@
     "url": "https://github.com/sumitraj0103/project-githubpackage-poc/issues"
   },
   "homepage": "https://github.com/sumitraj0103/project-githubpackage-poc#readme",
-  "dependencies": {
-    "@sumitraj0103/project-githubpackage-poc": "1.0.0"
-  }
 }
